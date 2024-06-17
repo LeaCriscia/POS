@@ -1,0 +1,83 @@
+*{
+    background-color: black;
+    color: white
+}
+
+.logo1{
+    height: 100px;
+    width: 200px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.AddMenu{
+    border: solid rgb(202, 71, 71);
+    display: block;
+}
+.AddMenu button{
+    border: solid rgb(202, 71, 71) 3px;
+}
+.addtomenu{
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.AddMenu1{
+    margin-right: 10px;
+    border: solid rgb(202, 71, 71) 3px;
+    margin-bottom: 20px;
+}
+.Category2{
+    border: solid rgb(202, 71, 71) 3px;
+    margin-left: 10px;
+    width: 800px;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: center;
+    justify-content: center;
+}
+
+.Category4{
+    border: solid whites 3px;
+    padding: 10px;
+}
+.Category5{
+    border: solid rgb(202, 71, 71) 3px;
+    margin-left: 10px;
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+    font-size: x-large;
+}
+.Category5 button{
+    font-size: xx-large;
+    margin: 10px;
+    border: solid rgb(202, 71, 71) 3px;
+}
+.Category6{
+    display: inline-block;
+
+}
+.Category7{
+    padding-top: 20px;
+}
+.Cart1{
+    display: inline-block;
+    border: solid rgb(202, 71, 71) 3px;
+    margin-left: 10px;
+    vertical-align: top;
+    width: 430px;
+    padding: 10px;
+}
+.Cart1 button{
+    border: solid rgb(202, 71, 71) 3px;
+    margin-right: 5px;
+}
+.card-body button{
+    margin-right: 10px;
+    border: solid rgb(202, 71, 71) 3px;
+}
+.Menu{
+    font-size: 40px
+}
